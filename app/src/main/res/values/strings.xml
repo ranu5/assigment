@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">AndroidAssignment</string>
+    <string name="alphabets">\u2022 Alphabets</string>
+    <string name="numbers">\u2022 Numbers</string>
 </resources>
